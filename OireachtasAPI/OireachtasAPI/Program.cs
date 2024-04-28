@@ -39,9 +39,9 @@ namespace OireachtasAPI
             var milliseconds5 = Profiler(() => filterUrlTypedBillsSponsoredBy("IvanaBacik"));
             Console.WriteLine($"Typed API Duration: {milliseconds5} milliseconds");
 
-
-
             var bills = filterTypedRefactorBillsSponsoredBy("IvanaBacik");
+
+            var dateBills = filterBillsByLastUpdated(new DateTime(2019, 01, 03), new DateTime(2019, 01, 10));
             Console.ReadKey();
         }
 
@@ -294,9 +294,10 @@ namespace OireachtasAPI
         /// <param name="since">The lastUpdated value for the bill should be greater than or equal to this date</param>
         /// <param name="until">The lastUpdated value for the bill should be less than or equal to this date.If unspecified, until will default to today's date</param>
         /// <returns>List of bill records</returns>
-        public static List<dynamic> filterBillsByLastUpdated(DateTime since, DateTime until)
+        public static List<Bill> filterBillsByLastUpdated(DateTime since, DateTime until)
         {
-            throw new NotImplementedException();
+            var leg = loadTyped<Bills>(LEGISLATION_DATASET);
+            return leg.results.Where(r => r.bill.lastUpdated.Date >= since && r.bill.lastUpdated.Date <= until).Select(r => r.bill).ToList();
         }
 
         private static double Profiler(Action func)
