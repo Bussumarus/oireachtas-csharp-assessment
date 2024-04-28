@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System;
 using System.Collections;
 using System.Diagnostics;
+using System.Globalization;
 using System.Net;
 using System.Net.Configuration;
 using System.Net.Http;
@@ -26,7 +27,33 @@ namespace OireachtasAPI
 
         static void Main(string[] args)
         {
-            var milliseconds1 = Profiler(() => filterTypedBillsSponsoredBy("IvanaBacik"));
+            IList<Bill> bills;
+            if (!args.Any())
+            {
+                bills = FilterMenu();
+            }
+            else
+            {
+                bills = ParseArgs(args);
+            }
+
+            if(bills?.Any() == true)
+            {
+                foreach (var b in bills)
+                {
+                    Console.WriteLine($"Bill: {b.billNo} - {b.longTitleEn}\r\n");
+                }
+            }
+            else if(bills != null)
+            {
+                Console.WriteLine("No Bills found");
+            }
+
+
+
+
+
+            /*var milliseconds1 = Profiler(() => filterTypedBillsSponsoredBy("IvanaBacik"));
             Console.WriteLine($"Typed Local Duration: {milliseconds1} milliseconds");
             var milliseconds2 = Profiler(() => filterTypedRefactorBillsSponsoredBy("IvanaBacik"));
             Console.WriteLine($"Typed Local Refactor Duration: {milliseconds2} milliseconds");
@@ -41,11 +68,101 @@ namespace OireachtasAPI
 
             var bills = filterTypedRefactorBillsSponsoredBy("IvanaBacik");
 
-            var dateBills = filterBillsByLastUpdated(new DateTime(2019, 01, 03), new DateTime(2019, 01, 10));
+            var dateBills = filterBillsByLastUpdated(new DateTime(2019, 01, 03), new DateTime(2019, 01, 10));*/
+            Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }
 
-        //public static Func<string, dynamic> load = jfname => JsonConvert.DeserializeObject((new System.IO.StreamReader(jfname)).ReadToEnd());
+        private static IList<Bill> FilterMenu()
+        {
+            Console.Write("Select a filter:\r\n" +
+                          "1. Bill Sponsor\r\n" +
+                          "2. Bill Last Updated\r\n" +
+                          "Any Other Key; Exit");
+            var key = Console.ReadKey();
+            switch (key.Key)
+            {
+            case ConsoleKey.D1:
+                Console.Write("\r\nEnter Sponsor's Id: ");
+                var name = Console.ReadLine();
+                if (name == string.Empty)
+                {
+                    Console.WriteLine("You must enter a name");
+                    return null;
+                }
+
+                return filterUrlTypedBillsSponsoredBy(name);
+            case ConsoleKey.D2:
+                Console.Write("\r\nEnter From Date: ");
+                var from = Console.ReadLine();
+                if (from == string.Empty || !DateTime.TryParse(from, out var fromDate))
+                {
+                    Console.WriteLine($"{from} is not a valid Date value (Format: {CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern})");
+                        return null;
+                }
+
+                Console.Write("Enter To Date: ");
+                var to = Console.ReadLine();
+                if (to == string.Empty || !DateTime.TryParse(to, out var toDate))
+                {
+                    Console.WriteLine($"{to} is not a valid Date value (Format: {CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern})");
+                    return null;
+                }
+
+                return filterBillsByLastUpdated(fromDate, toDate);
+            }
+
+            return null;
+        }
+
+        private static IList<Bill> ParseArgs(string[] args)
+        {
+            if(args.Length <= 1)
+            {
+                Console.WriteLine("Invalid arguments\r\nPass no arguments or follow the following usage:\r\n" +
+                                  $"{nameof(OireachtasAPI)}.exe [-Id MemberId] [-date from to]");
+                return null;
+            }
+            if(args.Contains("-Id"))
+            {
+                var name = args[Array.FindIndex(args, row => row == "-Id") + 1];
+                return filterTypedUrlRefactorBillsSponsoredBy(name);
+            }
+            else if(args.Contains("-date"))
+            {
+                if(args.Length < 3)
+                {
+                    Console.WriteLine("Invalid arguments\r\nPass no arguments or follow the following usage:\r\n" +
+                                      $"{nameof(OireachtasAPI)}.exe [-Id MemberId] [-date from to]");
+                    return null;
+                }
+
+                var dateIndex = Array.FindIndex(args, row => row == "-date");
+                var from = args[dateIndex + 1];
+                var to = args[dateIndex + 2];
+                if(!DateTime.TryParse(from, out var fromDate))
+                {
+                    Console.WriteLine($"{from} is not a valid Date value (Format: {CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern})");
+                    return null;
+                }
+
+                if (!DateTime.TryParse(to, out var toDate))
+                {
+                    Console.WriteLine($"{to} is not a valid Date value (Format: {CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern})");
+                    return null;
+                }
+
+                return filterBillsByLastUpdated(fromDate, toDate);
+            }
+            else
+            {
+                Console.WriteLine("Invalid arguments\r\nPass no arguments or follow the following usage:\r\n" +
+                                  $"{nameof(OireachtasAPI)}.exe [-Id MemberId] [-date From To]");
+            }
+
+            return null;
+        }
+
         public static dynamic load(string jfname)
         {
             if(jfname.StartsWith(API_URL))
@@ -183,12 +300,14 @@ namespace OireachtasAPI
             return ret;
         }
 
-        /// <summary>
-        /// Return bills sponsored by the member with the specified pId
-        /// </summary>
-        /// <param name="pId">The pId value for the member</param>
-        /// <returns>List of bill records</returns>
-        public static List<Bill> filterTypedBillsSponsoredBy(string pId)
+        
+
+            /// <summary>
+            /// Return bills sponsored by the member with the specified pId
+            /// </summary>
+            /// <param name="pId">The pId value for the member</param>
+            /// <returns>List of bill records</returns>
+            public static List<Bill> filterTypedBillsSponsoredBy(string pId)
         {
             var leg = loadTyped<Bills>(LEGISLATION_DATASET);
             var mem = loadTyped<Members>(MEMBERS_DATASET);
