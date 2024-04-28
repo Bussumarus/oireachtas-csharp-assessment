@@ -6,15 +6,9 @@ using System.Threading.Tasks;
 
 namespace OireachtasAPI
 {
-    public abstract class Result
-    {
-        public int resultCount;
-    }
-
-    [Serializable]
     public class DateRange
     {
-        public DateTime start;
-        public DateTime end;
-    }   
+        public DateTime start { get; set; }
+        public DateTime? end { get; set; }
+    }
 }

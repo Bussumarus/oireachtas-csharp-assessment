@@ -55,11 +55,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="APIResult.cs" />
-    <Compile Include="Members.cs" />
+    <Compile Include="Bills.cs" />
+    <Compile Include="Chamber.cs" />
+    <Compile Include="DateRange.cs" />
+    <Compile Include="Head.cs" />
+    <Compile Include="House.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Result.cs" />
+    <Compile Include="Members.cs" />
+    <Compile Include="ResultCount.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
