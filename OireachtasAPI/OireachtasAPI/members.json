@@ -43,19 +43,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1987-02-17",
                       "end": "1989-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Henry-J-J-Abbott.D.1987-03-10/house/dail/25",
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -98,19 +98,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1981-06-11",
                       "end": "1982-02-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Caroline-Acheson.D.1981-06-30/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -153,19 +153,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Sinn Féin",
+                    "showAs": "Sinn Fï¿½in",
                     "dateRange": {
                       "start": "2016-03-10",
                       "end": null
                     },
-                    "partyCode": "Sinn_Féin",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/32/Sinn_Féin"
+                    "partyCode": "Sinn_Fï¿½in",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/32/Sinn_Fï¿½in"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerry-Adams.D.2011-03-09/house/dail/32",
               "house": {
-                "showAs": "32nd Dáil",
+                "showAs": "32nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "32",
@@ -193,19 +193,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Sinn Féin",
+                    "showAs": "Sinn Fï¿½in",
                     "dateRange": {
                       "start": "2011-02-25",
                       "end": "2016-03-09"
                     },
-                    "partyCode": "Sinn_Féin",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Sinn_Féin"
+                    "partyCode": "Sinn_Fï¿½in",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Sinn_Fï¿½in"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerry-Adams.D.2011-03-09/house/dail/31",
               "house": {
-                "showAs": "31st Dáil",
+                "showAs": "31st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "31",
@@ -260,7 +260,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Patrick-Agnew.D.1981-06-30/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -315,7 +315,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Theresa-Ahearn.D.1989-06-29/house/dail/28",
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -355,7 +355,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Theresa-Ahearn.D.1989-06-29/house/dail/27",
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
@@ -395,7 +395,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Theresa-Ahearn.D.1989-06-29/house/dail/26",
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -451,19 +451,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2007-05-24",
                       "end": "2011-02-01"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/30",
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -504,19 +504,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2002-05-17",
                       "end": "2007-04-30"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/29",
               "house": {
-                "showAs": "29th Dáil",
+                "showAs": "29th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "29",
@@ -557,19 +557,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1997-06-06",
                       "end": "2002-04-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/28",
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -597,7 +597,7 @@
                 {
                   "office": {
                     "officeName": {
-                      "showAs": "Tánaiste",
+                      "showAs": "Tï¿½naiste",
                       "uri": null
                     },
                     "dateRange": {
@@ -646,19 +646,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1992-11-25",
                       "end": "1997-05-15"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/27",
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
@@ -711,19 +711,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1989-06-15",
                       "end": "1992-11-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/26",
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -764,19 +764,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1987-02-17",
                       "end": "1989-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/25",
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -804,19 +804,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-11-24",
                       "end": "1987-01-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/24",
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -844,19 +844,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-02-18",
                       "end": "1982-11-04"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/23",
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -884,19 +884,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1981-06-11",
                       "end": "1982-02-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -924,19 +924,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1977-06-16",
                       "end": "1981-05-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bertie-Ahern.D.1977-07-05/house/dail/21",
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -1016,18 +1016,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2007-05-24",
                       "end": "2011-02-01"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -1093,18 +1093,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2002-05-17",
                       "end": "2007-04-30"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "29th Dáil",
+                "showAs": "29th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "29",
@@ -1158,18 +1158,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1997-06-06",
                       "end": "2002-04-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -1198,18 +1198,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1992-11-25",
                       "end": "1997-05-15"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
@@ -1238,18 +1238,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1989-06-15",
                       "end": "1992-11-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -1278,18 +1278,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1987-02-17",
                       "end": "1989-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -1333,19 +1333,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1977-06-16",
                       "end": "1981-05-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Kathleen-Ahern.S.1964-11-25/house/dail/21",
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -1373,13 +1373,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1973-06-01",
                       "end": "1977-05-26"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/13/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/13/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -1413,13 +1413,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1969-11-05",
                       "end": "1973-03-30"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/12/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/12/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -1453,13 +1453,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1965-06-23",
                       "end": "1969-07-24"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/11/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/11/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -1493,13 +1493,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1964-11-25",
                       "end": "1965-04-28"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/10/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/10/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -1548,19 +1548,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1973-02-28",
                       "end": "1974-07-13"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/20/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/20/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Ahern.S.1957-05-22/house/dail/20",
               "house": {
-                "showAs": "20th Dáil",
+                "showAs": "20th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "20",
@@ -1588,13 +1588,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1969-11-05",
                       "end": "1973-03-30"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/12/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/12/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -1628,13 +1628,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1965-06-23",
                       "end": "1969-07-24"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/11/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/11/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -1668,13 +1668,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1961-12-14",
                       "end": "1965-04-28"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/10/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/10/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -1708,13 +1708,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1957-05-22",
                       "end": "1961-09-01"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/9/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/9/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -1763,19 +1763,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2007-05-24",
                       "end": "2011-02-01"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Ahern.D.1982-03-09/house/dail/30",
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -1803,19 +1803,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2002-05-17",
                       "end": "2007-04-30"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Ahern.D.1982-03-09/house/dail/29",
               "house": {
-                "showAs": "29th Dáil",
+                "showAs": "29th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "29",
@@ -1843,19 +1843,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1997-06-06",
                       "end": "2002-04-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Ahern.D.1982-03-09/house/dail/28",
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -1883,19 +1883,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1992-11-25",
                       "end": "1997-05-15"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Ahern.D.1982-03-09/house/dail/27",
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
@@ -1923,19 +1923,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1989-06-15",
                       "end": "1992-11-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Ahern.D.1982-03-09/house/dail/26",
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -1963,19 +1963,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1987-02-17",
                       "end": "1989-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Ahern.D.1982-03-09/house/dail/25",
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -2003,19 +2003,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-11-24",
                       "end": "1987-01-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Ahern.D.1982-03-09/house/dail/24",
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -2043,19 +2043,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-02-18",
                       "end": "1982-11-04"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Ahern.D.1982-03-09/house/dail/23",
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -2098,19 +2098,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2007-05-24",
                       "end": "2011-02-01"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-Ahern.D.1992-12-14/house/dail/30",
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -2138,19 +2138,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2002-05-17",
                       "end": "2007-04-30"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-Ahern.D.1992-12-14/house/dail/29",
               "house": {
-                "showAs": "29th Dáil",
+                "showAs": "29th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "29",
@@ -2178,19 +2178,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1997-06-06",
                       "end": "2002-04-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-Ahern.D.1992-12-14/house/dail/28",
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -2218,19 +2218,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1992-11-25",
                       "end": "1997-05-15"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-Ahern.D.1992-12-14/house/dail/27",
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
@@ -2273,18 +2273,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1969-06-18",
                       "end": "1973-02-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/19/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/19/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "19th Dáil",
+                "showAs": "19th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "19",
@@ -2313,7 +2313,7 @@
                 {
                   "office": {
                     "officeName": {
-                      "showAs": "Tánaiste",
+                      "showAs": "Tï¿½naiste",
                       "uri": null
                     },
                     "dateRange": {
@@ -2338,18 +2338,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1965-04-07",
                       "end": "1969-05-22"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/18/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/18/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "18th Dáil",
+                "showAs": "18th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "18",
@@ -2391,18 +2391,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1961-10-04",
                       "end": "1965-03-18"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/17/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/17/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "17th Dáil",
+                "showAs": "17th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "17",
@@ -2468,18 +2468,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1957-03-05",
                       "end": "1961-09-15"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/16/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/16/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "16th Dáil",
+                "showAs": "16th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "16",
@@ -2508,18 +2508,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1954-05-18",
                       "end": "1957-02-12"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/15/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/15/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "15th Dáil",
+                "showAs": "15th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "15",
@@ -2561,18 +2561,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1951-05-30",
                       "end": "1954-04-24"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/14/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/14/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "14th Dáil",
+                "showAs": "14th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "14",
@@ -2601,18 +2601,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1948-02-04",
                       "end": "1951-05-07"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/13/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/13/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "13th Dáil",
+                "showAs": "13th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "13",
@@ -2666,18 +2666,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1944-05-30",
                       "end": "1948-01-12"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/12/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/12/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "12th Dáil",
+                "showAs": "12th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "12",
@@ -2719,18 +2719,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1943-06-23",
                       "end": "1944-05-10"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/11/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/11/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "11th Dáil",
+                "showAs": "11th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "11",
@@ -2784,18 +2784,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1938-06-17",
                       "end": "1943-05-31"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/10/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/10/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "10th Dáil",
+                "showAs": "10th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "10",
@@ -2837,18 +2837,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1937-07-01",
                       "end": "1938-05-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/9/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/9/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "9th Dáil",
+                "showAs": "9th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "9",
@@ -2902,18 +2902,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1933-01-24",
                       "end": "1937-06-14"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/8/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/8/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "8th Dáil",
+                "showAs": "8th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "8",
@@ -2955,18 +2955,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1932-02-16",
                       "end": "1933-01-02"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/7/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/7/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "7th Dáil",
+                "showAs": "7th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "7",
@@ -2995,18 +2995,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1927-09-15",
                       "end": "1932-01-29"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/6/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/6/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "6th Dáil",
+                "showAs": "6th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "6",
@@ -3035,18 +3035,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1927-06-09",
                       "end": "1927-08-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/5/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/5/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "5th Dáil",
+                "showAs": "5th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "5",
@@ -3086,7 +3086,7 @@
                 }
               ],
               "house": {
-                "showAs": "4th Dáil",
+                "showAs": "4th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "4",
@@ -3142,7 +3142,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/William-Patrick-Aird.D.1927-10-11/house/dail/6",
               "house": {
-                "showAs": "6th Dáil",
+                "showAs": "6th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "6",
@@ -3197,7 +3197,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Allen.D.1981-06-30/house/dail/30",
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -3237,7 +3237,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Allen.D.1981-06-30/house/dail/29",
               "house": {
-                "showAs": "29th Dáil",
+                "showAs": "29th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "29",
@@ -3277,7 +3277,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Allen.D.1981-06-30/house/dail/28",
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -3317,7 +3317,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Allen.D.1981-06-30/house/dail/27",
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
@@ -3357,7 +3357,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Allen.D.1981-06-30/house/dail/26",
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -3397,7 +3397,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Allen.D.1981-06-30/house/dail/25",
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -3437,7 +3437,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Allen.D.1981-06-30/house/dail/24",
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -3477,7 +3477,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Allen.D.1981-06-30/house/dail/23",
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -3517,7 +3517,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Allen.D.1981-06-30/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -3560,19 +3560,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1957-03-05",
                       "end": "1961-03-29"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/16/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/16/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/16",
               "house": {
-                "showAs": "16th Dáil",
+                "showAs": "16th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "16",
@@ -3600,19 +3600,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1954-05-18",
                       "end": "1957-02-12"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/15/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/15/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/15",
               "house": {
-                "showAs": "15th Dáil",
+                "showAs": "15th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "15",
@@ -3640,19 +3640,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1951-05-30",
                       "end": "1954-04-24"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/14/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/14/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/14",
               "house": {
-                "showAs": "14th Dáil",
+                "showAs": "14th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "14",
@@ -3680,19 +3680,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1948-02-04",
                       "end": "1951-05-07"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/13/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/13/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/13",
               "house": {
-                "showAs": "13th Dáil",
+                "showAs": "13th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "13",
@@ -3720,19 +3720,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1944-05-30",
                       "end": "1948-01-12"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/12/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/12/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/12",
               "house": {
-                "showAs": "12th Dáil",
+                "showAs": "12th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "12",
@@ -3760,19 +3760,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1943-06-23",
                       "end": "1944-05-10"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/11/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/11/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/11",
               "house": {
-                "showAs": "11th Dáil",
+                "showAs": "11th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "11",
@@ -3800,19 +3800,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1938-06-17",
                       "end": "1943-05-31"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/10/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/10/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/10",
               "house": {
-                "showAs": "10th Dáil",
+                "showAs": "10th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "10",
@@ -3840,19 +3840,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1937-07-01",
                       "end": "1938-05-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/9/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/9/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/9",
               "house": {
-                "showAs": "9th Dáil",
+                "showAs": "9th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "9",
@@ -3880,19 +3880,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1932-03-09",
                       "end": "1933-01-02"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/8/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/8/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/8",
               "house": {
-                "showAs": "8th Dáil",
+                "showAs": "8th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "8",
@@ -3920,19 +3920,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1932-03-09",
                       "end": "1933-01-02"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/7/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/7/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/7",
               "house": {
-                "showAs": "7th Dáil",
+                "showAs": "7th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "7",
@@ -3960,19 +3960,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1927-09-15",
                       "end": "1932-01-29"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/6/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/6/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Allen.D.1927-10-11/house/dail/6",
               "house": {
-                "showAs": "6th Dáil",
+                "showAs": "6th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "6",
@@ -4015,19 +4015,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-02-18",
                       "end": "1982-11-04"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Lorcan-Allen.D.1961-10-11/house/dail/23",
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -4055,19 +4055,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1981-06-11",
                       "end": "1982-02-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Lorcan-Allen.D.1961-10-11/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -4095,19 +4095,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1977-06-16",
                       "end": "1981-05-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Lorcan-Allen.D.1961-10-11/house/dail/21",
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -4135,19 +4135,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1973-02-28",
                       "end": "1977-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/20/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/20/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Lorcan-Allen.D.1961-10-11/house/dail/20",
               "house": {
-                "showAs": "20th Dáil",
+                "showAs": "20th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "20",
@@ -4175,19 +4175,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1969-06-18",
                       "end": "1973-02-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/19/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/19/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Lorcan-Allen.D.1961-10-11/house/dail/19",
               "house": {
-                "showAs": "19th Dáil",
+                "showAs": "19th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "19",
@@ -4215,19 +4215,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1965-04-07",
                       "end": "1969-05-22"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/18/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/18/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Lorcan-Allen.D.1961-10-11/house/dail/18",
               "house": {
-                "showAs": "18th Dáil",
+                "showAs": "18th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "18",
@@ -4255,19 +4255,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1961-10-04",
                       "end": "1965-03-18"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/17/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/17/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Lorcan-Allen.D.1961-10-11/house/dail/17",
               "house": {
-                "showAs": "17th Dáil",
+                "showAs": "17th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "17",
@@ -4497,7 +4497,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ernest-H-Alton.D.1922-09-09/house/dail/8",
               "house": {
-                "showAs": "8th Dáil",
+                "showAs": "8th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "8",
@@ -4537,7 +4537,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ernest-H-Alton.D.1922-09-09/house/dail/7",
               "house": {
-                "showAs": "7th Dáil",
+                "showAs": "7th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "7",
@@ -4577,7 +4577,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ernest-H-Alton.D.1922-09-09/house/dail/6",
               "house": {
-                "showAs": "6th Dáil",
+                "showAs": "6th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "6",
@@ -4617,7 +4617,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ernest-H-Alton.D.1922-09-09/house/dail/5",
               "house": {
-                "showAs": "5th Dáil",
+                "showAs": "5th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "5",
@@ -4657,7 +4657,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ernest-H-Alton.D.1922-09-09/house/dail/4",
               "house": {
-                "showAs": "4th Dáil",
+                "showAs": "4th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "4",
@@ -4697,7 +4697,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ernest-H-Alton.D.1922-09-09/house/dail/3",
               "house": {
-                "showAs": "3rd Dáil",
+                "showAs": "3rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "3",
@@ -4725,9 +4725,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/30/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/30/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -4740,19 +4740,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2007-05-24",
                       "end": "2011-02-01"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Andrews.D.2002-06-06/house/dail/30",
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -4765,9 +4765,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/29/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/29/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -4780,19 +4780,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2002-05-17",
                       "end": "2007-04-30"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Barry-Andrews.D.2002-06-06/house/dail/29",
               "house": {
-                "showAs": "29th Dáil",
+                "showAs": "29th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "29",
@@ -4835,19 +4835,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2007-05-24",
                       "end": "2011-02-01"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Chris-Andrews.D.2007-06-14/house/dail/30",
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -4875,9 +4875,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/28/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/28/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -4915,19 +4915,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1997-06-06",
                       "end": "2002-04-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/28",
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -4940,9 +4940,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/27/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/27/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -4992,19 +4992,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1992-11-25",
                       "end": "1997-05-15"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/27",
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
@@ -5017,9 +5017,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/26/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/26/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -5045,19 +5045,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1989-06-15",
                       "end": "1992-11-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/26",
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -5070,9 +5070,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/25/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/25/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -5085,19 +5085,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1987-02-17",
                       "end": "1989-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/25",
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -5110,9 +5110,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/24/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/24/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -5125,19 +5125,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-11-24",
                       "end": "1987-01-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/24",
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -5150,9 +5150,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/23/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/23/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -5165,19 +5165,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-02-18",
                       "end": "1982-11-04"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/23",
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -5190,9 +5190,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/22/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/22/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -5205,19 +5205,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1981-06-11",
                       "end": "1982-02-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -5230,9 +5230,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/21/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/21/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -5245,19 +5245,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1977-06-16",
                       "end": "1981-05-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/21",
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -5270,9 +5270,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire-and-Rathdown",
-                    "showAs": "Dún Laoghaire and Rathdown",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/20/constituency/Dún-Laoghaire-and-Rathdown",
+                    "representCode": "Dï¿½n-Laoghaire-and-Rathdown",
+                    "showAs": "Dï¿½n Laoghaire and Rathdown",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/20/constituency/Dï¿½n-Laoghaire-and-Rathdown",
                     "representType": "constituency"
                   }
                 }
@@ -5285,19 +5285,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1973-02-28",
                       "end": "1977-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/20/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/20/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/20",
               "house": {
-                "showAs": "20th Dáil",
+                "showAs": "20th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "20",
@@ -5310,9 +5310,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire-and-Rathdown",
-                    "showAs": "Dún Laoghaire and Rathdown",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/19/constituency/Dún-Laoghaire-and-Rathdown",
+                    "representCode": "Dï¿½n-Laoghaire-and-Rathdown",
+                    "showAs": "Dï¿½n Laoghaire and Rathdown",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/19/constituency/Dï¿½n-Laoghaire-and-Rathdown",
                     "representType": "constituency"
                   }
                 }
@@ -5325,19 +5325,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1969-06-18",
                       "end": "1973-02-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/19/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/19/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/19",
               "house": {
-                "showAs": "19th Dáil",
+                "showAs": "19th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "19",
@@ -5350,9 +5350,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire-and-Rathdown",
-                    "showAs": "Dún Laoghaire and Rathdown",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/18/constituency/Dún-Laoghaire-and-Rathdown",
+                    "representCode": "Dï¿½n-Laoghaire-and-Rathdown",
+                    "showAs": "Dï¿½n Laoghaire and Rathdown",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/18/constituency/Dï¿½n-Laoghaire-and-Rathdown",
                     "representType": "constituency"
                   }
                 }
@@ -5365,19 +5365,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1965-04-07",
                       "end": "1969-05-22"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/18/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/18/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/David-Andrews.D.1965-04-21/house/dail/18",
               "house": {
-                "showAs": "18th Dáil",
+                "showAs": "18th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "18",
@@ -5420,19 +5420,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-11-24",
                       "end": "1987-01-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niall-Andrews.D.1977-07-05/house/dail/24",
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -5460,19 +5460,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-02-18",
                       "end": "1982-11-04"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niall-Andrews.D.1977-07-05/house/dail/23",
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -5500,19 +5500,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1981-06-11",
                       "end": "1982-02-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niall-Andrews.D.1977-07-05/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -5540,19 +5540,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1977-06-16",
                       "end": "1981-05-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Niall-Andrews.D.1977-07-05/house/dail/21",
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -5687,7 +5687,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Sidney-Anthony.D.1927-06-23/house/dail/12",
               "house": {
-                "showAs": "12th Dáil",
+                "showAs": "12th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "12",
@@ -5727,7 +5727,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Sidney-Anthony.D.1927-06-23/house/dail/11",
               "house": {
-                "showAs": "11th Dáil",
+                "showAs": "11th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "11",
@@ -5767,7 +5767,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Sidney-Anthony.D.1927-06-23/house/dail/9",
               "house": {
-                "showAs": "9th Dáil",
+                "showAs": "9th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "9",
@@ -5807,7 +5807,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Sidney-Anthony.D.1927-06-23/house/dail/8",
               "house": {
-                "showAs": "8th Dáil",
+                "showAs": "8th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "8",
@@ -5847,7 +5847,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Sidney-Anthony.D.1927-06-23/house/dail/7",
               "house": {
-                "showAs": "7th Dáil",
+                "showAs": "7th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "7",
@@ -5887,7 +5887,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Sidney-Anthony.D.1927-06-23/house/dail/6",
               "house": {
-                "showAs": "6th Dáil",
+                "showAs": "6th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "6",
@@ -5927,7 +5927,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Sidney-Anthony.D.1927-06-23/house/dail/5",
               "house": {
-                "showAs": "5th Dáil",
+                "showAs": "5th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "5",
@@ -5970,13 +5970,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2016-04-25",
                       "end": null
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/25/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/25/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -5995,15 +5995,15 @@
     },
     {
       "member": {
-        "memberCode": "Seán-Ardagh.D.1997-06-26",
+        "memberCode": "Seï¿½n-Ardagh.D.1997-06-26",
         "lastName": "Ardagh",
-        "firstName": "Seán",
+        "firstName": "Seï¿½n",
         "gender": "",
         "dateOfDeath": null,
-        "fullName": "Seán Ardagh",
+        "fullName": "Seï¿½n Ardagh",
         "pId": "SeanArdagh",
         "wikiTitle": null,
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ardagh.D.1997-06-26",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Ardagh.D.1997-06-26",
         "memberships": [
           {
             "membership": {
@@ -6025,19 +6025,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2007-05-24",
                       "end": "2011-02-01"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fï¿½il"
                   }
                 }
               ],
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ardagh.D.1997-06-26/house/dail/30",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Ardagh.D.1997-06-26/house/dail/30",
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -6065,19 +6065,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2002-05-17",
                       "end": "2007-04-30"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fï¿½il"
                   }
                 }
               ],
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ardagh.D.1997-06-26/house/dail/29",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Ardagh.D.1997-06-26/house/dail/29",
               "house": {
-                "showAs": "29th Dáil",
+                "showAs": "29th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "29",
@@ -6105,19 +6105,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1997-06-06",
                       "end": "2002-04-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fï¿½il"
                   }
                 }
               ],
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Ardagh.D.1997-06-26/house/dail/28",
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Ardagh.D.1997-06-26/house/dail/28",
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -6160,13 +6160,13 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1973-06-01",
                       "end": "1974-07-18"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/13/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/seanad/13/Fianna_Fï¿½il"
                   }
                 }
               ],
@@ -6215,18 +6215,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2016-03-10",
                       "end": null
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/32/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/32/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "32nd Dáil",
+                "showAs": "32nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "32",
@@ -6255,18 +6255,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2016-03-10",
                       "end": "2016-03-09"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/31/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "31st Dáil",
+                "showAs": "31st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "31",
@@ -6295,18 +6295,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2007-05-24",
                       "end": "2011-02-01"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/30/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -6350,19 +6350,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Sinn Féin",
+                    "showAs": "Sinn Fï¿½in",
                     "dateRange": {
                       "start": "1921-05-24",
                       "end": "1922-06-16"
                     },
-                    "partyCode": "Sinn_Féin",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/2/Sinn_Féin"
+                    "partyCode": "Sinn_Fï¿½in",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/2/Sinn_Fï¿½in"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Edward-Aylward.D.1921-08-16/house/dail/2",
               "house": {
-                "showAs": "2nd Dáil",
+                "showAs": "2nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "2",
@@ -6405,19 +6405,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "2002-05-17",
                       "end": "2007-04-30"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/29/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Aylward.D.1977-07-05/house/dail/29",
               "house": {
-                "showAs": "29th Dáil",
+                "showAs": "29th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "29",
@@ -6445,19 +6445,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1997-06-06",
                       "end": "2002-04-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/28/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Aylward.D.1977-07-05/house/dail/28",
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -6485,19 +6485,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1992-11-25",
                       "end": "1997-05-15"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/27/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Aylward.D.1977-07-05/house/dail/27",
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
@@ -6525,19 +6525,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1989-06-15",
                       "end": "1992-11-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Aylward.D.1977-07-05/house/dail/26",
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -6565,19 +6565,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1987-02-17",
                       "end": "1989-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Aylward.D.1977-07-05/house/dail/25",
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -6605,19 +6605,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-11-24",
                       "end": "1987-01-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Aylward.D.1977-07-05/house/dail/24",
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -6645,19 +6645,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-02-18",
                       "end": "1982-11-04"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Aylward.D.1977-07-05/house/dail/23",
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -6685,19 +6685,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1981-06-11",
                       "end": "1982-02-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Aylward.D.1977-07-05/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -6725,19 +6725,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1977-06-16",
                       "end": "1981-05-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Liam-Aylward.D.1977-07-05/house/dail/21",
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -7106,9 +7106,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -7133,7 +7133,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Maria-Bailey.D.2016-10-03/house/dail/32",
               "house": {
-                "showAs": "32nd Dáil",
+                "showAs": "32nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "32",
@@ -7188,7 +7188,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Bannon.S.2002-09-12/house/dail/31",
               "house": {
-                "showAs": "31st Dáil",
+                "showAs": "31st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "31",
@@ -7228,7 +7228,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/James-Bannon.S.2002-09-12/house/dail/30",
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
@@ -7296,9 +7296,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/28/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/28/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -7323,7 +7323,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Monica-Barnes.S.1982-05-13/house/dail/28",
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
@@ -7336,9 +7336,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/26/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/26/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -7363,7 +7363,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Monica-Barnes.S.1982-05-13/house/dail/26",
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -7376,9 +7376,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/25/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/25/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -7403,7 +7403,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Monica-Barnes.S.1982-05-13/house/dail/25",
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -7416,9 +7416,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/24/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/24/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -7443,7 +7443,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Monica-Barnes.S.1982-05-13/house/dail/24",
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -8107,19 +8107,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1989-06-15",
                       "end": "1992-11-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/26/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Barrett.D.1981-06-30/house/dail/26",
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -8147,19 +8147,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1987-02-17",
                       "end": "1989-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/25/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Barrett.D.1981-06-30/house/dail/25",
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -8187,19 +8187,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-11-24",
                       "end": "1987-01-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Barrett.D.1981-06-30/house/dail/24",
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -8227,19 +8227,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-02-18",
                       "end": "1982-11-04"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Barrett.D.1981-06-30/house/dail/23",
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -8267,19 +8267,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1981-06-11",
                       "end": "1982-02-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Barrett.D.1981-06-30/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -8347,24 +8347,24 @@
     },
     {
       "member": {
-        "memberCode": "Seán-Barrett.D.1981-06-30",
+        "memberCode": "Seï¿½n-Barrett.D.1981-06-30",
         "lastName": "Barrett",
-        "firstName": "Seán",
+        "firstName": "Seï¿½n",
         "gender": "",
         "dateOfDeath": null,
-        "fullName": "Seán Barrett",
+        "fullName": "Seï¿½n Barrett",
         "pId": "SeanBarrett",
         "wikiTitle": null,
-        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30",
         "memberships": [
           {
             "membership": {
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8388,13 +8388,13 @@
                 }
               ],
               "house": {
-                "showAs": "32nd Dáil",
+                "showAs": "32nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "32",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/32"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/32"
             }
           },
           {
@@ -8402,9 +8402,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/31/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/31/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8439,13 +8439,13 @@
                 }
               ],
               "house": {
-                "showAs": "31st Dáil",
+                "showAs": "31st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "31",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/31"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/31"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/31"
             }
           },
           {
@@ -8453,9 +8453,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/30/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/30/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8479,13 +8479,13 @@
                 }
               ],
               "house": {
-                "showAs": "30th Dáil",
+                "showAs": "30th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "30",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/30"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/30"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/30"
             }
           },
           {
@@ -8493,9 +8493,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/28/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/28/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8519,13 +8519,13 @@
                 }
               ],
               "house": {
-                "showAs": "28th Dáil",
+                "showAs": "28th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "28",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/28"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/28"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/28"
             }
           },
           {
@@ -8533,9 +8533,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/27/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/27/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8584,13 +8584,13 @@
                 }
               ],
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/27"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/27"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/27"
             }
           },
           {
@@ -8598,9 +8598,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/26/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/26/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8624,13 +8624,13 @@
                 }
               ],
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/26"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/26"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/26"
             }
           },
           {
@@ -8638,9 +8638,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/25/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/25/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8664,13 +8664,13 @@
                 }
               ],
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/25"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/25"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/25"
             }
           },
           {
@@ -8678,9 +8678,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/24/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/24/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8704,13 +8704,13 @@
                 }
               ],
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/24"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/24"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/24"
             }
           },
           {
@@ -8718,9 +8718,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/23/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/23/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8744,13 +8744,13 @@
                 }
               ],
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/23"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/23"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/23"
             }
           },
           {
@@ -8758,9 +8758,9 @@
               "represents": [
                 {
                   "represent": {
-                    "representCode": "Dún-Laoghaire",
-                    "showAs": "Dún Laoghaire",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/22/constituency/Dún-Laoghaire",
+                    "representCode": "Dï¿½n-Laoghaire",
+                    "showAs": "Dï¿½n Laoghaire",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/22/constituency/Dï¿½n-Laoghaire",
                     "representType": "constituency"
                   }
                 }
@@ -8784,13 +8784,13 @@
                 }
               ],
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
                 "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/22"
               },
-              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Barrett.D.1981-06-30/house/dail/22"
+              "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seï¿½n-Barrett.D.1981-06-30/house/dail/22"
             }
           }
         ]
@@ -8840,7 +8840,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Stephen-D-Barrett.D.1954-03-03/house/dail/18",
               "house": {
-                "showAs": "18th Dáil",
+                "showAs": "18th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "18",
@@ -8880,7 +8880,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Stephen-D-Barrett.D.1954-03-03/house/dail/17",
               "house": {
-                "showAs": "17th Dáil",
+                "showAs": "17th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "17",
@@ -8920,7 +8920,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Stephen-D-Barrett.D.1954-03-03/house/dail/16",
               "house": {
-                "showAs": "16th Dáil",
+                "showAs": "16th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "16",
@@ -8960,7 +8960,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Stephen-D-Barrett.D.1954-03-03/house/dail/15",
               "house": {
-                "showAs": "15th Dáil",
+                "showAs": "15th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "15",
@@ -9000,7 +9000,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Stephen-D-Barrett.D.1954-03-03/house/dail/14",
               "house": {
-                "showAs": "14th Dáil",
+                "showAs": "14th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "14",
@@ -9043,18 +9043,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-12-14",
                       "end": "1987-01-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/24/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -9083,18 +9083,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-02-18",
                       "end": "1982-11-04"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/23/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -9123,18 +9123,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1981-06-11",
                       "end": "1982-02-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/22/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -9200,18 +9200,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1977-06-16",
                       "end": "1981-05-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/21/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -9240,18 +9240,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1973-02-28",
                       "end": "1977-05-25"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/20/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/20/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "20th Dáil",
+                "showAs": "20th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "20",
@@ -9280,18 +9280,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1969-06-18",
                       "end": "1973-02-05"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/19/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/19/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "19th Dáil",
+                "showAs": "19th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "19",
@@ -9320,18 +9320,18 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1982-12-14",
                       "end": "1987-01-21"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/18/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/18/Fianna_Fï¿½il"
                   }
                 }
               ],
               "house": {
-                "showAs": "18th Dáil",
+                "showAs": "18th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "18",
@@ -9513,7 +9513,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joseph-Barron.D.1961-10-11/house/dail/17",
               "house": {
-                "showAs": "17th Dáil",
+                "showAs": "17th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "17",
@@ -9568,7 +9568,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anthony-Barry.D.1954-06-02/house/dail/17",
               "house": {
-                "showAs": "17th Dáil",
+                "showAs": "17th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "17",
@@ -9648,7 +9648,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Anthony-Barry.D.1954-06-02/house/dail/15",
               "house": {
-                "showAs": "15th Dáil",
+                "showAs": "15th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "15",
@@ -9713,7 +9713,7 @@
                 }
               ],
               "house": {
-                "showAs": "32nd Dáil",
+                "showAs": "32nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "32",
@@ -9769,7 +9769,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Myra-Barry.D.1979-11-07/house/dail/24",
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -9809,7 +9809,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Myra-Barry.D.1979-11-07/house/dail/23",
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -9849,7 +9849,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Myra-Barry.D.1979-11-07/house/dail/22",
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -9889,7 +9889,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Myra-Barry.D.1979-11-07/house/dail/21",
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -9943,7 +9943,7 @@
                 }
               ],
               "house": {
-                "showAs": "27th Dáil",
+                "showAs": "27th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "27",
@@ -9983,7 +9983,7 @@
                 }
               ],
               "house": {
-                "showAs": "26th Dáil",
+                "showAs": "26th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "26",
@@ -10023,7 +10023,7 @@
                 }
               ],
               "house": {
-                "showAs": "25th Dáil",
+                "showAs": "25th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "25",
@@ -10064,7 +10064,7 @@
                 {
                   "office": {
                     "officeName": {
-                      "showAs": "Tánaiste",
+                      "showAs": "Tï¿½naiste",
                       "uri": null
                     },
                     "dateRange": {
@@ -10088,7 +10088,7 @@
                 }
               ],
               "house": {
-                "showAs": "24th Dáil",
+                "showAs": "24th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "24",
@@ -10128,7 +10128,7 @@
                 }
               ],
               "house": {
-                "showAs": "23rd Dáil",
+                "showAs": "23rd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "23",
@@ -10181,7 +10181,7 @@
                 }
               ],
               "house": {
-                "showAs": "22nd Dáil",
+                "showAs": "22nd Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "22",
@@ -10221,7 +10221,7 @@
                 }
               ],
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -10286,7 +10286,7 @@
                 }
               ],
               "house": {
-                "showAs": "20th Dáil",
+                "showAs": "20th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "20",
@@ -10326,7 +10326,7 @@
                 }
               ],
               "house": {
-                "showAs": "19th Dáil",
+                "showAs": "19th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "19",
@@ -10382,7 +10382,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Barry.D.1953-06-18/house/dail/21",
               "house": {
-                "showAs": "21st Dáil",
+                "showAs": "21st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "21",
@@ -10422,7 +10422,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Barry.D.1953-06-18/house/dail/20",
               "house": {
-                "showAs": "20th Dáil",
+                "showAs": "20th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "20",
@@ -10462,7 +10462,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Barry.D.1953-06-18/house/dail/19",
               "house": {
-                "showAs": "19th Dáil",
+                "showAs": "19th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "19",
@@ -10502,7 +10502,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Barry.D.1953-06-18/house/dail/18",
               "house": {
-                "showAs": "18th Dáil",
+                "showAs": "18th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "18",
@@ -10542,7 +10542,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Barry.D.1953-06-18/house/dail/17",
               "house": {
-                "showAs": "17th Dáil",
+                "showAs": "17th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "17",
@@ -10582,7 +10582,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Barry.D.1953-06-18/house/dail/16",
               "house": {
-                "showAs": "16th Dáil",
+                "showAs": "16th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "16",
@@ -10622,7 +10622,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Barry.D.1953-06-18/house/dail/15",
               "house": {
-                "showAs": "15th Dáil",
+                "showAs": "15th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "15",
@@ -10662,7 +10662,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Barry.D.1953-06-18/house/dail/14",
               "house": {
-                "showAs": "14th Dáil",
+                "showAs": "14th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "14",
@@ -10717,7 +10717,7 @@
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Tom-Barry.D.2011-03-09/house/dail/31",
               "house": {
-                "showAs": "31st Dáil",
+                "showAs": "31st Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "31",
@@ -10773,19 +10773,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1961-10-04",
                       "end": "1965-03-18"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/17/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/17/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/17",
               "house": {
-                "showAs": "17th Dáil",
+                "showAs": "17th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "17",
@@ -10826,19 +10826,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1957-03-05",
                       "end": "1961-09-15"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/16/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/16/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/16",
               "house": {
-                "showAs": "16th Dáil",
+                "showAs": "16th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "16",
@@ -10866,19 +10866,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1954-05-18",
                       "end": "1957-02-12"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/15/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/15/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/15",
               "house": {
-                "showAs": "15th Dáil",
+                "showAs": "15th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "15",
@@ -10906,19 +10906,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1951-05-30",
                       "end": "1954-04-24"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/14/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/14/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/14",
               "house": {
-                "showAs": "14th Dáil",
+                "showAs": "14th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "14",
@@ -10946,19 +10946,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1948-02-04",
                       "end": "1951-05-07"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/13/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/13/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/13",
               "house": {
-                "showAs": "13th Dáil",
+                "showAs": "13th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "13",
@@ -10986,19 +10986,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1944-05-30",
                       "end": "1948-01-12"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/12/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/12/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/12",
               "house": {
-                "showAs": "12th Dáil",
+                "showAs": "12th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "12",
@@ -11026,19 +11026,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1943-06-23",
                       "end": "1944-05-10"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/11/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/11/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/11",
               "house": {
-                "showAs": "11th Dáil",
+                "showAs": "11th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "11",
@@ -11066,19 +11066,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1938-06-17",
                       "end": "1943-05-31"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/10/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/10/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/10",
               "house": {
-                "showAs": "10th Dáil",
+                "showAs": "10th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "10",
@@ -11106,19 +11106,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1937-07-01",
                       "end": "1938-05-27"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/9/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/9/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/9",
               "house": {
-                "showAs": "9th Dáil",
+                "showAs": "9th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "9",
@@ -11146,19 +11146,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1933-01-24",
                       "end": "1937-06-14"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/8/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/8/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/8",
               "house": {
-                "showAs": "8th Dáil",
+                "showAs": "8th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "8",
@@ -11186,19 +11186,19 @@
               "parties": [
                 {
                   "party": {
-                    "showAs": "Fianna Fáil",
+                    "showAs": "Fianna Fï¿½il",
                     "dateRange": {
                       "start": "1932-02-16",
                       "end": "1933-01-02"
                     },
-                    "partyCode": "Fianna_Fáil",
-                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/7/Fianna_Fáil"
+                    "partyCode": "Fianna_Fï¿½il",
+                    "uri": "https://data.oireachtas.ie/ie/oireachtas/party/dail/7/Fianna_Fï¿½il"
                   }
                 }
               ],
               "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Gerald-Bartley.D.1932-03-09/house/dail/7",
               "house": {
-                "showAs": "7th Dáil",
+                "showAs": "7th Dï¿½il",
                 "chamberType": "house",
                 "houseCode": "dail",
                 "houseNo": "7",

@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OireachtasAPI/OireachtasAPI/bin/Debug
+/OireachtasAPI/.vs/OireachtasAPI/v17
+/OireachtasAPI/OireachtasAPI/obj
+/OireachtasAPI/packages
+/OireachtasAPI/TestOireachtasAPI/.vs
+/OireachtasAPI/TestOireachtasAPI/bin/Debug
+/OireachtasAPI/TestOireachtasAPI/obj/Debug
+/OireachtasAPI/.vs/OireachtasAPI/FileContentIndex
