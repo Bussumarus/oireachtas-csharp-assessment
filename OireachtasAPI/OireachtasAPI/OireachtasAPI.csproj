@@ -56,7 +56,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bills.cs" />
-    <Compile Include="Chamber.cs" />
     <Compile Include="DateRange.cs" />
     <Compile Include="Head.cs" />
     <Compile Include="House.cs" />

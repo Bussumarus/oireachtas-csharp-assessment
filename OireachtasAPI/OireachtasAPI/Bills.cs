@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OireachtasAPI
 {
-
     public class Bills
     {
         public BillHead head { get; set; }
@@ -23,13 +18,15 @@ namespace OireachtasAPI
         public BillCount counts { get; set; }
     }
 
+    
     public class BillDetails
     {
         public Bill bill { get; set; }
-        public Billsort billSort { get; set; }
+        public BillSort billSort { get; set; }
         public string contextDate { get; set; }
     }
 
+    
     public class Bill
     {
         public object act { get; set; }
@@ -183,12 +180,7 @@ namespace OireachtasAPI
         public string uri { get; set; }
     }
 
-    public class Pdf1
-    {
-        public string uri { get; set; }
-    }
-
-    public class Billsort
+    public class BillSort
     {
         public object actNoSort { get; set; }
         public object actShortTitleEnSort { get; set; }
