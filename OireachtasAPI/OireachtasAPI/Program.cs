@@ -3,18 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
-using System.Runtime.CompilerServices;
-using System.Text;
 using System.Threading.Tasks;
-using System;
-using System.Collections;
 using System.Diagnostics;
 using System.Globalization;
-using System.Net;
-using System.Net.Configuration;
-using System.Net.Http;
-using System.Net.Http.Headers;
-using System.Threading.Tasks;
 using System.Threading;
 
 namespace OireachtasAPI
@@ -24,17 +15,20 @@ namespace OireachtasAPI
         public static string LEGISLATION_DATASET = "legislation.json";
         public static string MEMBERS_DATASET = "members.json";
         public static string API_URL = "https://api.oireachtas.ie";
+        public static string LEGISLATION_ENDPOINT = $"{API_URL}/v1/legislation";
+        public static string MEMBERS_ENDPOINT = $"{API_URL}/v1/members";
 
         static void Main(string[] args)
         {
             IList<Bill> bills;
-            if (!args.Any())
+            var api = args.Any() && args.Contains("-online");
+            if (!args.Any() || (args.Length == 1 && api))
             {
-                bills = FilterMenu();
+                bills = FilterMenu(api);
             }
             else
             {
-                bills = ParseArgs(args);
+                bills = ParseArgs(args, api);
             }
 
             if(bills?.Any() == true)
@@ -43,37 +37,24 @@ namespace OireachtasAPI
                 {
                     Console.WriteLine($"Bill: {b.billNo} - {b.longTitleEn}\r\n");
                 }
+
+                Console.WriteLine("Press any key to continue...");
             }
             else if(bills != null)
             {
                 Console.WriteLine("No Bills found");
             }
 
-
-
-
-
-            /*var milliseconds1 = Profiler(() => filterTypedBillsSponsoredBy("IvanaBacik"));
-            Console.WriteLine($"Typed Local Duration: {milliseconds1} milliseconds");
-            var milliseconds2 = Profiler(() => filterTypedRefactorBillsSponsoredBy("IvanaBacik"));
-            Console.WriteLine($"Typed Local Refactor Duration: {milliseconds2} milliseconds");
-            var milliseconds3 = Profiler(() => filterBillsSponsoredBy("IvanaBacik"));
-            Console.WriteLine($"Dynamic Local Duration: {milliseconds3} milliseconds");
-
-
-            var milliseconds4 = Profiler(() => filterUrlBillsSponsoredBy("IvanaBacik"));
-            Console.WriteLine($"Dynamic API Duration: {milliseconds4} milliseconds");
-            var milliseconds5 = Profiler(() => filterUrlTypedBillsSponsoredBy("IvanaBacik"));
-            Console.WriteLine($"Typed API Duration: {milliseconds5} milliseconds");
-
-            var bills = filterTypedRefactorBillsSponsoredBy("IvanaBacik");
-
-            var dateBills = filterBillsByLastUpdated(new DateTime(2019, 01, 03), new DateTime(2019, 01, 10));*/
-            Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }
 
-        private static IList<Bill> FilterMenu()
+        /// <summary>
+        /// Creates the menu for user interaction
+        /// </summary>
+        /// <param name="api">Specifies is using local data source or the API end point</param>
+        /// <returns>Returns an IList of Bill objects</returns>
+
+        private static IList<Bill> FilterMenu(bool api)
         {
             Console.Write("Select a filter:\r\n" +
                           "1. Bill Sponsor\r\n" +
@@ -91,7 +72,7 @@ namespace OireachtasAPI
                     return null;
                 }
 
-                return filterUrlTypedBillsSponsoredBy(name);
+                return filterBillsSponsoredBy(name, api);
             case ConsoleKey.D2:
                 Console.Write("\r\nEnter From Date: ");
                 var from = Console.ReadLine();
@@ -109,31 +90,39 @@ namespace OireachtasAPI
                     return null;
                 }
 
-                return filterBillsByLastUpdated(fromDate, toDate);
+                return filterBillsByLastUpdated(fromDate, toDate, api);
             }
 
             return null;
         }
 
-        private static IList<Bill> ParseArgs(string[] args)
+        /// <summary>
+        /// Parses the command line arguments to retreive the relavant data
+        /// </summary>
+        /// <param name="args">The command line arguments</param>
+        /// <param name="api">Specifies is using local data source or the API end point</param>
+        /// <returns>Returns an IList of Bill objects</returns>
+        private static IList<Bill> ParseArgs(string[] args, bool api)
         {
-            if(args.Length <= 1)
+            if(args.Length <= (1 + (api?1:0)))
             {
                 Console.WriteLine("Invalid arguments\r\nPass no arguments or follow the following usage:\r\n" +
-                                  $"{nameof(OireachtasAPI)}.exe [-Id MemberId] [-date from to]");
+                                  $"{nameof(OireachtasAPI)}.exe [-Id MemberId] [-date from to] [-online]");
                 return null;
             }
+
             if(args.Contains("-Id"))
             {
                 var name = args[Array.FindIndex(args, row => row == "-Id") + 1];
-                return filterTypedUrlRefactorBillsSponsoredBy(name);
+                return filterBillsSponsoredBy(name, api);
             }
-            else if(args.Contains("-date"))
+            
+            if(args.Contains("-date"))
             {
                 if(args.Length < 3)
                 {
                     Console.WriteLine("Invalid arguments\r\nPass no arguments or follow the following usage:\r\n" +
-                                      $"{nameof(OireachtasAPI)}.exe [-Id MemberId] [-date from to]");
+                                      $"{nameof(OireachtasAPI)}.exe [-Id MemberId] [-date from to]  [-online]");
                     return null;
                 }
 
@@ -152,50 +141,38 @@ namespace OireachtasAPI
                     return null;
                 }
 
-                return filterBillsByLastUpdated(fromDate, toDate);
+                return filterBillsByLastUpdated(fromDate, toDate, api);
             }
-            else
-            {
-                Console.WriteLine("Invalid arguments\r\nPass no arguments or follow the following usage:\r\n" +
-                                  $"{nameof(OireachtasAPI)}.exe [-Id MemberId] [-date From To]");
-            }
+
+            Console.WriteLine("Invalid arguments\r\nPass no arguments or follow the following usage:\r\n" +
+                                  $"{nameof(OireachtasAPI)}.exe [-Id MemberId] [-date From To]  [-online]");
 
             return null;
         }
 
-        public static dynamic load(string jfname)
+        /// <summary>
+        /// Loads the type for the information from the source data
+        /// </summary>
+        /// <typeparam name="T">The type representing the data being loaded</typeparam>
+        /// <param name="source">The path to the source information</param>
+        /// <returns>Returns the data for the specified type</returns>
+        public static T load<T>(string source) where T : class
         {
-            if(jfname.StartsWith(API_URL))
+            if (source.StartsWith(API_URL))
             {
-                return LoadFromURL(jfname).GetAwaiter().GetResult();
-            }
-            
-            return JsonConvert.DeserializeObject(new System.IO.StreamReader(jfname).ReadToEnd());
-        }
-
-        public static T loadTyped<T>(string jfname) where T : class
-        {
-            if (jfname.StartsWith(API_URL))
-            {
-                return LoadFromURLTyped<T>(jfname).GetAwaiter().GetResult();
+                return LoadFromEndpoint<T>(source).GetAwaiter().GetResult();
             }
 
-            return JsonConvert.DeserializeObject<T>(new System.IO.StreamReader(jfname).ReadToEnd());
+            return JsonConvert.DeserializeObject<T>(new System.IO.StreamReader(source).ReadToEnd());
         }
 
-        private static async Task<dynamic> LoadFromURL(string url)
-        {
-            var client = new HttpClient();
-            var response = await client.GetAsync(url);
-            if(response.IsSuccessStatusCode)
-            {
-                return await response.Content.ReadAsAsync<dynamic>();
-            }
-
-            return null;
-        }
-
-        private static async Task<T> LoadFromURLTyped<T>(string url) where T: class
+        /// <summary>
+        /// Loads information from a HTTP endpoint
+        /// </summary>
+        /// <typeparam name="T">The type representing the data being loaded</typeparam>
+        /// <param name="url">The url of the endpoint</param>
+        /// <returns>Returns a Task that will yield an object of the specified <typeparam name="T"></returns>
+        private static async Task<T> LoadFromEndpoint<T>(string url) where T: class
         {
             var client = new HttpClient();
             var response = await client.GetAsync(url);
@@ -211,199 +188,46 @@ namespace OireachtasAPI
         /// Return bills sponsored by the member with the specified pId
         /// </summary>
         /// <param name="pId">The pId value for the member</param>
-        /// <returns>List of bill records</returns>
-        public static List<dynamic> filterBillsSponsoredBy(string pId)
+        /// <param name="api">Specifies is using local data source or the API end point</param>
+        /// <returns>Returns an IList of Bill objects</returns>
+        public static IList<Bill> filterBillsSponsoredBy(string pId, bool api = false)
         {
-            dynamic leg = load(LEGISLATION_DATASET);
-            dynamic mem = load(MEMBERS_DATASET);
+            var leg = load<Bills>(api ? LEGISLATION_ENDPOINT : LEGISLATION_DATASET);
+            var mem = load<Members>(api ? MEMBERS_ENDPOINT : MEMBERS_DATASET);
 
-            List<dynamic> ret = new List<dynamic>();
-            foreach (dynamic res in leg["results"])
-            {
-                dynamic p = res["bill"]["sponsors"];
-                foreach(dynamic i in p)
-                {
-                    string name = i["sponsor"]["by"]["showAs"];
-                    foreach (dynamic result in mem["results"])
-                    {
-                        string fname = result["member"]["fullName"];
-                        string rpId = result["member"]["pId"];
-                        if (fname == name && rpId == pId){
-                            ret.Add(res["bill"]);
-                        }
-                    }
-                }               
-            }
-            return ret;
-        }
-
-        /// <summary>
-        /// Return bills sponsored by the member with the specified pId
-        /// </summary>
-        /// <param name="pId">The pId value for the member</param>
-        /// <returns>List of bill records</returns>
-        public static List<dynamic> filterUrlBillsSponsoredBy(string pId)
-        {
-            dynamic leg = load("https://api.oireachtas.ie/v1/legislation");
-            dynamic mem = load("https://api.oireachtas.ie/v1/members");
-
-            List<dynamic> ret = new List<dynamic>();
-
-            foreach (dynamic res in leg["results"])
-            {
-                dynamic p = res["bill"]["sponsors"];
-                foreach (dynamic i in p)
-                {
-                    string name = i["sponsor"]["by"]["showAs"];
-                    foreach (dynamic result in mem["results"])
-                    {
-                        string fname = result["member"]["fullName"];
-                        string rpId = result["member"]["pId"];
-                        if (fname == name && rpId == pId)
-                        {
-                            ret.Add(res["bill"]);
-                        }
-                    }
-                }
-            }
-            return ret;
-        }
-
-        /// <summary>
-        /// Return bills sponsored by the member with the specified pId
-        /// </summary>
-        /// <param name="pId">The pId value for the member</param>
-        /// <returns>List of bill records</returns>
-        public static List<Bill> filterUrlTypedBillsSponsoredBy(string pId)
-        {
-            var leg = loadTyped<Bills>("https://api.oireachtas.ie/v1/legislation");
-            var mem = loadTyped<Members>("https://api.oireachtas.ie/v1/members");
-
-            List<Bill> ret = new List<Bill>();
-            foreach (var res in leg.results)
-            {
-                var p = res.bill.sponsors;
-                foreach (var i in p)
-                {
-                    string name = i.sponsor.by.showAs;
-                    foreach (var result in mem.results)
-                    {
-                        string fname = result.member.fullName;
-                        string rpId = result.member.pId;
-                        if (fname == name && rpId == pId)
-                        {
-                            ret.Add(res.bill);
-                        }
-                    }
-                }
-            }
-            return ret;
+            return filterBillsSponsoredBy(leg, mem, pId);
         }
 
         
 
-            /// <summary>
-            /// Return bills sponsored by the member with the specified pId
-            /// </summary>
-            /// <param name="pId">The pId value for the member</param>
-            /// <returns>List of bill records</returns>
-            public static List<Bill> filterTypedBillsSponsoredBy(string pId)
-        {
-            var leg = loadTyped<Bills>(LEGISLATION_DATASET);
-            var mem = loadTyped<Members>(MEMBERS_DATASET);
-
-            List<Bill> ret = new List<Bill>();
-            foreach (var res in leg.results)
-            {
-                var p = res.bill.sponsors;
-                foreach (var i in p)
-                {
-                    string name = i.sponsor.by.showAs;
-                    foreach (var result in mem.results)
-                    {
-                        string fname = result.member.fullName;
-                        string rpId = result.member.pId;
-                        if (fname == name && rpId == pId)
-                        {
-                            ret.Add(res.bill);
-                        }
-                    }
-                }
-            }
-            return ret;
-        }
-
         /// <summary>
-        /// Return bills sponsored by the member with the specified pId
+        /// Return bills sponsored by the member with the specified PId
         /// </summary>
+        /// <param name="bills">The list of available bills to search</param>
+        /// <param name="members">The list of available members to search</param>
         /// <param name="pId">The pId value for the member</param>
-        /// <returns>List of bill records</returns>
-        public static List<Bill> filterTypedRefactorBillsSponsoredBy(string pId)
+        /// <returns>Returns an IList of Bill objects</returns>
+        private static IList<Bill> filterBillsSponsoredBy(Bills bills, Members members, string pId)
         {
-            var leg = loadTyped<Bills>(LEGISLATION_DATASET);
-            var mem = loadTyped<Members>(MEMBERS_DATASET);
-
-            var member = mem.results.FirstOrDefault(m => m.member.pId == pId);
-            if(member == null)
-            {
-                return null; //Note; assumption that pId is supposed to be a unique identifier
-            }
-
-            return leg.results.Where(b => b.bill.sponsors.FirstOrDefault(s => s.sponsor.by.showAs == member.member.fullName) != null)
-                      .Select(b => b.bill).ToList();
-        }
-
-        /// <summary>
-        /// Return bills sponsored by the member with the specified pId
-        /// </summary>
-        /// <param name="pId">The pId value for the member</param>
-        /// <returns>List of bill records</returns>
-        public static List<Bill> filterTypedUrlRefactorBillsSponsoredBy(string pId)
-        {
-            var leg = loadTyped<Bills>("https://api.oireachtas.ie/v1/legislation");
-            var mem = loadTyped<Members>("https://api.oireachtas.ie/v1/members");
-
-            var member = mem.results.FirstOrDefault(m => m.member.pId == pId);
+            var member = members.results.FirstOrDefault(m => m.member.pId == pId);
             if (member == null)
             {
                 return null; //Note; assumption that pId is supposed to be a unique identifier
             }
 
-            return leg.results.Where(b => b.bill.sponsors.FirstOrDefault(s => s.sponsor.by.showAs == member.member.fullName) != null)
-                      .Select(b => b.bill).ToList();
-        }
-
-
-
-        /// <summary>
-        /// Return bills sponsored by the member with the specified pId
-        /// </summary>
-        /// <param name="pId">The pId value for the member</param>
-        /// <returns>List of bill records</returns>
-        public static List<dynamic> filterUrlLinqBillsSponsoredBy(string pId)
-        {
-            dynamic leg = load("https://api.oireachtas.ie/v1/legislation");
-            dynamic mem = load("https://api.oireachtas.ie/v1/members");
-
-            List<dynamic> ret = new List<dynamic>();
-
-            foreach (dynamic res in leg["results"])
+            var sponsorGroup = bills.results.GroupBy(b => b.bill.sponsors)
+                                    .Select(g => new
+                                                 {
+                                                         Sponors = string.Join(",", g.Key.Select(s => s.sponsor.by.showAs)),
+                                                         Records = g.Select(b => b.bill)
+                                                 });
+            var groups = sponsorGroup.Where(g => g.Sponors.Contains(member.member.fullName));
+            var ret = new List<Bill>();
+            foreach (var g in groups)
             {
-                dynamic p = res["bill"]["sponsors"];
-                foreach (dynamic i in p)
-                {
-                    string name = i["sponsor"]["by"]["showAs"];
-                    foreach (dynamic result in mem["results"])
-                    {
-                        string fname = result["member"]["fullName"];
-                        string rpId = result["member"]["pId"];
-                        if (fname == name && rpId == pId)
-                        {
-                            ret.Add(res["bill"]);
-                        }
-                    }
-                }
+                ret.AddRange(g.Records);
             }
+
             return ret;
         }
 
@@ -412,11 +236,15 @@ namespace OireachtasAPI
         /// </summary>
         /// <param name="since">The lastUpdated value for the bill should be greater than or equal to this date</param>
         /// <param name="until">The lastUpdated value for the bill should be less than or equal to this date.If unspecified, until will default to today's date</param>
-        /// <returns>List of bill records</returns>
-        public static List<Bill> filterBillsByLastUpdated(DateTime since, DateTime until)
+        /// <param name="api">Specifies is using local data source or the API end point</param>
+        /// <returns>Returns an IList of Bill objects</returns>
+        public static IList<Bill> filterBillsByLastUpdated(DateTime since, DateTime until, bool api = false)
         {
-            var leg = loadTyped<Bills>(LEGISLATION_DATASET);
-            return leg.results.Where(r => r.bill.lastUpdated.Date >= since && r.bill.lastUpdated.Date <= until).Select(r => r.bill).ToList();
+            var leg = load<Bills>(api ? LEGISLATION_ENDPOINT : LEGISLATION_DATASET);
+            return leg.results.Where(r => r.bill.lastUpdated.Date >= since && r.bill.lastUpdated.Date <= until)
+                      .Select(r => r.bill)
+                      .OrderBy(b => b.lastUpdated)
+                      .ToList();
         }
 
         private static double Profiler(Action func)
